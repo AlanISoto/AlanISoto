@@ -4,10 +4,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p> -->
 <!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
 
-<h3 align="center">👨‍💻 Currently looking for work in Web Development 👨‍💻</h3>
+<h3 align="center">I'm a certified Full Stack Software Developer 🚀 based in New Zealand. With a background in culinary arts and restaurant management, I now specialize in crafting efficient and user-friendly web applications, combining my keen attention to detail with technical expertise.</h3>
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
-<div>
+<!-- <div>
     <ul align="left">
         <li>🌱 Right now, I'm learning DevOps!</li>
         <li> 🔭  Currently working on an AI-based app to save restaurants (and us) money</li>
@@ -18,7 +18,7 @@
         <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
         <li> 📍  I'm based in in New Zealand 🌿, but open to remote work 🌎</li>
     </ul>
-</div>
+</div> -->
 
 <br/>
 
@@ -41,7 +41,7 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -51,7 +51,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <!--
 ---
