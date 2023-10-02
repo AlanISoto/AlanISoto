@@ -1,21 +1,19 @@
 <h1 align="center">Alan Ivan Soto</h1>
 
 <h2 align="center">Full-Stack Developer</h2>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mind-ll-matter&label=Profile%20views&color=0e75b6&style=flat" alt="mind-ll-matter" /> </p> -->
-<!-- [![Website](https://img.shields.io/website?label=ajevile.com&style=for-the-badge&url=https%3A%2F%ajevile.com)](https://www.ajevile.com) -->
+
 
 <h3 align="center">I'm a certified Full Stack Software Developer 🚀 based in New Zealand. With a background in culinary arts and restaurant management, I now specialize in crafting efficient and user-friendly web applications, combining my keen attention to detail with technical expertise.</h3>
 <br>
 <img align="right" height="200" src="./lofi-girl-lofi.gif" />
 <!-- <div>
     <ul align="left">
-        <li>🌱 Right now, I'm learning DevOps!</li>
-        <li> 🔭  Currently working on an AI-based app to save restaurants (and us) money</li>
-        <li> 🤝  I'm looking for help with data architecture</li>
-        <li>👯 I’m also open to collaborate with other developers</li>
-        <li>🥅 2023 Goals: Learn more about machine learning and startups</li>
-        <li>⚡ Fun fact: I like boxing, waka ama and op shopping</li>
-        <li>👨‍💻 Some of my projects are available at <a href="https://www.ajevile.com/" target="_blank" rel="noreferrer">ajevile.com</a></li>
+        <li>🌱 </li>
+        <li> 🔭  </li>
+        <li> 🤝  </li>
+        <li>👯 </li>
+        <li>🥅 </li>
+        <li>⚡ </li>
         <li> 📍  I'm based in in New Zealand 🌿, but open to remote work 🌎</li>
     </ul>
 </div> -->
@@ -99,7 +97,7 @@
 
 <p align="center">
   <!-- <summary>:zap: Alan's GitHub Stats</summary> -->
-  <!-- <img align="left" alt="Alan's Stats" src="https://github-readme-stats.vercel.app/api?username=mind-ll-matter&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="Alan's Stats" src="https://github-readme-stats.vercel.app/api?username=AlanISoto&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanISoto&theme=tokyonight&" alt="mind-ll-matter" /></p>
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AlanISoto&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="mind-ll-matter" /></p>
   <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanISoto&theme=tokyonight&show_icons=true&hide=stars&locale=en" alt="mind-ll-matter" /></p>
@@ -107,7 +105,6 @@
 
 <!-- [website]: https://  -->
 [linkedin]: https://www.linkedin.com/in/alan-i-soto7/
-<!-- [course]: http://ajevile.com/course -->
 <!-- [twitter]: https://twitter.com/username -->
 <!-- [youtube]: https://youtube.com/username -->
 <!-- [instagram]: https://instagram.com/username -->
